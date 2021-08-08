@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	font-family: helvetica;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+	border-radius: 100px;
+	margin: 20px;
+	flex-direction: column;
+}
